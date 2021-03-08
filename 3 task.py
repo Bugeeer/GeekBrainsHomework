@@ -29,5 +29,4 @@ for percent in range(21):
         print(percent, 'процент')
     elif 2 <= percent <= 4:
         print(percent, 'процента')
-    else:
-        print('Неверный ввод. Введите число от 0 до 20: ')
+
